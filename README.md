@@ -31,16 +31,16 @@
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="C#" height="25" src="images/cSharp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Django" height="25" src="images/django.png"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="C" height="25" src="c.svg"></code>
+  <code><img title="C++" height="25" src="cpp.svg"></code>
+  <code><img title="C#" height="25" src="/cSharp.svg"></code>
+  <code><img title="Python" height="25" src="/python-original.svg"></code>
+  <code><img title="Django" height="25" src="/django.png"></code>
+  <code><img title="Javascript" height="25" src="/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="/html5.svg"></code>
+  <code><img title="CSS" height="25" src="/css.svg"></code>
+  <code><img title="SASS" height="25" src="/sass.svg"></code>
   <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
   <code><img title="Redux" height="25" src="images/redux.svg"></code>
