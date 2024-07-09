@@ -40,13 +40,11 @@
   <code><img title="Problem Solving" height="25" src="/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="/html5.svg"></code>
   <code><img title="CSS" height="25" src="/css.svg"></code>
-  <code><img title="SASS" height="25" src="/sass.svg"></code>
-  <code><img title="Gulp" height="25" src="images/gulp.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
-  <code><img title="AngularJS" height="25" src="images/angularjs.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title=".NetCore" height="25" src="images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="React" height="25" src="/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="/redux.svg"></code>
+  <code><img title="AngularJS" height="25" src="/angularjs.png"></code>
+  <code><img title="Git" height="25" src="/git-original.svg"></code>
+  <code><img title=".NetCore" height="25" src="/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="/visualstudio.png"></code>
