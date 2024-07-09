@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Aryan+KASHYAP....;Nice+to+meet+you!&center=true&size=30">
@@ -8,29 +6,25 @@
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/arynksp//" title="LinkedIn Profile"><img width="22" src="logo-hero.png"> LinkedIn</a></code>
-  <code><a href="https://leetcode.com/u/aryan_ksp/" title="Leetcode Profile"><img width="22" src="LeetCode_Logo_black_with_text.svg.png"> HackerRank</a></code>
+  <code><a href="https://leetcode.com/u/aryan_ksp/" title="Leetcode Profile"><img width="22" src="LeetCode_Logo_black_with_text.svg.png"> Leetcode</a></code>
   <code><a href="https://www.instagram.com/aryan.0.8/" title="Instagram Profile"><img width="22" src="Logo-instagram.png"> Instagram</a></code>
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
+  Hi, I'm Aryan KASHYAP, CSE Final Year Student & Aspiring Software Developer from India
   <br>
   <br>
-  🔬 I'm currently studying for my doctorate at Atatürk University, Department of Computer Engineering
+  🔬 I'm currently pursuing Bacheolers in CSE from Chandigarh University, Punjab, India
   <br>
-  🎓 I graduated from Atatürk University, Department of Computer Engineering (Master)
+  🎓 I completed my Matriculation & Intermediate from DAV Public School, Nahan, Sirmour, Himachal.
   <br>
-  🎓 I graduated from Black Sea Technical University, Department of Computer Engineering (Undergraduate)
+  💻 I have a strong skill set in full stack web development, specializing in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and MySQL.
   <br>
-  🎓 I graduated from Erzurum İbrahim Hakkı Science High School
+  📚 Additionally, I have a solid understanding of Data Structures and Algorithms, with proficiency in C++.
   <br>
-  💻 I love writing code and learn anythings about it
+  💬 Ask me anything about from <a href="https://www.linkedin.com/in/arynksp/" title="Issues">Here</a>
   <br>
-  📚 I’m currently learning how to build E-Commerce Website with Django
-  <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
-  <br>
-  📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
+  📫 How to reach me: <a href="mailto: aryn.ksp@gmail.com">aryn.ksp@gmail.com</a>
 </p>
 
 <hr>
