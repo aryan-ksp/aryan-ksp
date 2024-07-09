@@ -7,8 +7,8 @@
 </h1>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="HackerRank Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
+  <code><a href="https://www.linkedin.com/in/arynksp//" title="LinkedIn Profile"><img width="22" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F317750%2Flinkedin_icon&psig=AOvVaw1CZpgnBavw0A4f52r-Rzok&ust=1720615086555000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLjD_en8mYcDFQAAAAAdAAAAABAE"> LinkedIn</a></code>
+  <code><a href="https://www.hackerrank.com/zumrudu_anka" title="Leetcode Profile"><img width="22" src="images/hackerrank.png"> HackerRank</a></code>
   <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
   <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
