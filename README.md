@@ -18,7 +18,7 @@
   <br>
   🎓 I completed my Matriculation & Intermediate from DAV Public School, Nahan, Sirmour, Himachal.
   <br>
-  💻 I have a strong skill set in full stack web development, specializing in HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB, and MySQL.
+  💻 I have a strong skill set in full stack web development, specializing in HTML, CSS, JavaScript, React.js, MongoDB, and MySQL.
   <br>
   📚 Additionally, I have a solid understanding of Data Structures and Algorithms, with proficiency in C++.
   <br>
